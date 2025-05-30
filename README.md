@@ -75,7 +75,7 @@ Edit
 
 ## 🧱 data Architecture integration
 
-![Data integrations](documents/data_schme.png)
+![Data integrations](documents/dataschme_relation.png)
 
 ---
 
